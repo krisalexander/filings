@@ -30,9 +30,6 @@
     "url": "https://github.com/kevinsawicki/filings/issues"
   },
   "scripts": {
-    "prepublish": "grunt publish",
-    "postinstall": "grunt",
-    "test": "grunt test"
   },
   "devDependencies": {
     "grunt": "~0.4.1",

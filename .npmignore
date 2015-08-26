@@ -1,0 +1,5 @@
+.npmignore
+.DS_Store
+*.log
+.travis.yml
+spec/
