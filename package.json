@@ -31,6 +31,7 @@
   },
   "scripts": {
     "prepublish": "grunt publish",
+    "postinstall": "grunt",
     "test": "grunt test"
   },
   "devDependencies": {
